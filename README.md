@@ -1,2 +1,3 @@
-# Online-Bookstore-Website
-The repository contains complete functional website built using HTML CSS and minimum bootstrap. Backend is managed using mySQL and PHP. Javascript and PHP is used for validation.
+The home page is index.php
+The names of the pages are self explainatory 
+First the user has to sign up using the sign in form and then he can add books to his cart
